@@ -1,0 +1,58 @@
+.resources {
+  height: 28px;
+  width: 116px;
+}
+
+.resources .item-down {
+  align-items: center;
+  display: inline-flex;
+  gap: 6px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.resources .div {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.resources .icon {
+  height: 10.75px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 17.5px;
+}
+
+.resources .menu {
+  background-color: #0094ff80;
+  border-radius: 10px;
+  height: 157px;
+  left: -15px;
+  opacity: 0.35;
+  position: absolute;
+  top: 41px;
+  width: 229px;
+}
+
+.resources .item-up {
+  align-items: center;
+  display: inline-flex;
+  gap: 6px;
+  justify-content: center;
+  position: relative;
+}
+
+.resources.drop-down {
+  position: relative;
+}

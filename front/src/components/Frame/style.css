@@ -1,0 +1,41 @@
+.frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 4px;
+  position: relative;
+}
+
+.frame .text-wrapper-6 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: Truepx;
+  position: relative;
+  width: fit-content;
+}
+
+.frame .ellipse-wrapper {
+  align-items: center;
+  background-color: #ffffff;
+  border-radius: 100px;
+  display: flex;
+  gap: 10px;
+  height: 24px;
+  padding: 2px;
+  position: relative;
+  width: 46px;
+}
+
+.frame .ellipse {
+  background-color: #000000;
+  border-radius: 10px;
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.frame .dark {
+  justify-content: flex-end;
+}

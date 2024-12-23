@@ -1,0 +1,58 @@
+.pricing {
+  height: 28px;
+  width: 81px;
+}
+
+.pricing .item-down-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 6px;
+  justify-content: center;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.pricing .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: Truepx;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.pricing .icon-2 {
+  height: 10.75px;
+  margin-right: -2.00px;
+  position: relative;
+  width: 17.5px;
+}
+
+.pricing .menu-3 {
+  background-color: #0095ff78;
+  border-radius: 10px;
+  height: 157px;
+  left: -15px;
+  opacity: 0.35;
+  position: absolute;
+  top: 41px;
+  width: 229px;
+}
+
+.pricing .item-up-3 {
+  align-items: center;
+  display: inline-flex;
+  gap: 6px;
+  justify-content: center;
+  position: relative;
+}
+
+.pricing.property-1-0-drop-down {
+  position: relative;
+}

@@ -1,0 +1,33 @@
+.lancez-vous {
+  align-items: center;
+  background-color: #544457;
+  border: 2px solid;
+  border-color: #ffffff;
+  border-radius: 15px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 15px 60px;
+  position: relative;
+}
+
+.lancez-vous .text-wrapper {
+  color: #ffffff;
+  font-family: var(--m3-headline-small-font-family);
+  font-size: var(--m3-headline-small-font-size);
+  font-style: var(--m3-headline-small-font-style);
+  font-weight: var(--m3-headline-small-font-weight);
+  letter-spacing: var(--m3-headline-small-letter-spacing);
+  line-height: var(--m3-headline-small-line-height);
+  margin-top: -2.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.lancez-vous:hover {
+  background-color: #2b6f9f;
+}
